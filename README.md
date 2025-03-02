@@ -9,7 +9,7 @@
 
 **Tasks and Roles**:
 
-- Creating Cypress tests for frontend testing, which will run automatically with every cloud build.
+- Creating Cypress tests for frontend testing, which will run automatically with every cloud build
 - Providing the ability to run tests manually by team members during new feature development.
 - Creating a stable automated testing system that integrates into the existing CI/CD process to ensure product quality at every stage of development.
 
